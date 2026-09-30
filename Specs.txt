@@ -1,0 +1,9 @@
+CPU: 8-bit 2A03 (6502 Core)
+     1.79MHz clock (In NTSC version)
+Graphics: 2C02 PPU
+RAM: 2KB
+VRAM: 2KB
+5 sound channels
+
+The color of a pixel is represented by 2 bits, meaning every sprite has 4 colors to choose from (Anything other than tiles usually reserve one for transparency). The specific colors are determined by the PPU
+
